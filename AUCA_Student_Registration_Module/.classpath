@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/hibernate-core-6.4.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/antlr4-runtime-4.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/byte-buddy-1.14.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/jandex-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/jaxb-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/jaxb-runtime-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/jboss-logging-3.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bapub/Downloads/jar_files (1)/txw2-4.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
